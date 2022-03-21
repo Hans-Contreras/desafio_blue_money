@@ -1,0 +1,6 @@
+
+            A la fecha: Mon Mar 21 2022 01:47:39 GMT-0300 (hora de verano de Chile)
+            Fue realizada cotización con los siguientes datos:
+            Cantidad de pesos a convertir: 250000 pesos
+            Convertido a "dolar" da un total de: 311.63132767410843
+            
